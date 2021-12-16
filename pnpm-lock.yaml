@@ -1,0 +1,23 @@
+lockfileVersion: 5.3
+
+specifiers:
+  '@iyowei/ls-dir-sync': ^1.0.1
+  '@iyowei/scan-dir-each-sync': ^1.0.0
+
+dependencies:
+  '@iyowei/ls-dir-sync': 1.0.1
+  '@iyowei/scan-dir-each-sync': 1.0.0
+
+packages:
+
+  /@iyowei/ls-dir-sync/1.0.1:
+    resolution: {integrity: sha512-kzGIE00IsA2u3KeBBIezaYJPgFhZQ9C2omOa5uW5Spclq2o5LtEm5R6dRt6lD5ehL/MXG5LFdxiG91EaNVghZA==}
+    engines: {node: '>=12.20.0'}
+    requiresBuild: true
+    dev: false
+
+  /@iyowei/scan-dir-each-sync/1.0.0:
+    resolution: {integrity: sha512-cl1LVMgazETmj0IudyTF4GuC9sxire8R0RsiryEIOspDzxvKaAPXXpZyh4hvfK1XrWEVp70UMfYQ9+66T95rEg==}
+    engines: {node: '>=12.20.0'}
+    requiresBuild: true
+    dev: false
